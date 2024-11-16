@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="DTV@Tokyo(vthanh)" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK総合（東京）
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+#EXTINF:-1 group-title="DTV@Tokyo(vthanh)" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (tokenized signal)
+http://tv.utako.moe/nhkg_oujde/index.m3u8
 #EXTINF:-1 group-title="DTV@Tokyo(vthanh)" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK Eテレ（東京）
 http://tv.utako.moe/nhke_testsignal/index.m3u8
 #EXTINF:-1 group-title="DTV@Tokyo(vthanh)" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",日本テレビ
