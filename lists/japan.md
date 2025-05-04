@@ -1,4 +1,4 @@
-<h2> All links to "cdns.jp-primehome.com" for watching Japanese TV live streaming are no longer available due to the actions of the streaming side!
+  <h2> All links to "cdns.jp-primehome.com" for watching Japanese TV live streaming are no longer available due to the actions of the streaming side!
 
 "cdns.jp-primehome.com" is the server of a company that provides paid live distribution of Japanese television broadcasts to Japanese people living outside Japan.
 
@@ -25,5 +25,5 @@ People who do not have a paid contract with the distributor can no longer access
 | #  |        チャンネル名       |                                                                                   Link                                                                                     |                                                                                     Logo                                                                                      |         EPG id         |
 |:--:|:---------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|
 | CS ch055  |    ショップチャンネル    |   [>](https://stream3.shopch.jp/HLS/master.m3u8)                                                 |                                                           <img height="20" src="https://i.imgur.com/7dTnMkn.png"/>                                                            |       ShopChannel.jp      |
-| CS ch161  |    QVC  |    [>](https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8)                                                 |                                                           <img height="20" src="https://i.imgur.com/H8bptUo.png"/>        |    QVC.jp         |                                                                                                    
+| CS ch161  |    QVC                      [>](https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8)                                                 |                                                           <img height="20" src="https://i.imgur.com/H8bptUo.png"/>                                                       |       QVC.jp              |
 
