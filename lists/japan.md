@@ -41,10 +41,11 @@ People who do not have a paid contract with the distributor can no longer access
                                   
 
 <h2> ネット配信 (Online) </h2>
-| # |       チャンネル名        |                                                       リンク                                                       |                           Logo                           |    EPG id     |
-|:-----------:|:--------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------:|
-|   |    NHK World-Japan    |                                           [>](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8)                                            |                  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/>                   |    NHKWorldJapan.jp    |
-|   |    ウェザーニュースLiVE      |                                      [>](https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8)             |                  <img height="20" src="https://i.imgur.com/kXpePwv.jpeg"/>                                                            |     Weathernews.jp     |
+
+| チャンネル番号  |        チャンネル名        |                                                                                    リンク                                                                                     |                                                                                     チャンネルロゴ                                                                                      |         EPG id         |
+|:----------:|:------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|
+|   |    NHK World-Japan    |     [>](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8)      |             <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/>                   |    NHKWorldJapan.jp    |
+|   |    ウェザーニュースLiVE      |   [>](https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8)             |    <img height="20" src="https://i.imgur.com/kXpePwv.jpeg"/>       |          |
 
 <h2> 配信されていない利用不可能なチャンネル (Invalid channels) </h2>
 
