@@ -1,18 +1,10 @@
-  <h2> All links to "cdns.jp-primehome.com" for watching Japanese TV live streaming are no longer available due to the actions of the streaming side!
+ <h2> All links to "cdns.jp-primehome.com" for watching Japanese TV live streaming are no longer available due to the actions of the streaming side!
 
 "cdns.jp-primehome.com" is the server of a company that provides paid live distribution of Japanese television broadcasts to Japanese people living outside Japan.
 
 People who do not have a paid contract with the distributor can no longer access the jp-primehome server using the playlist posted on github and watch the distribution content for free. </h2>
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-   <h2> All links to "cdns.jp-primehome.com" for watching Japanese TV live streaming are no longer available due to the actions of the streaming side!
-
-"cdns.jp-primehome.com" is the server of a company that provides paid live distribution of Japanese television broadcasts to Japanese people living outside Japan.
-
-People who do not have a paid contract with the distributor can no longer access the jp-primehome server using the playlist posted on github and watch the distribution content for free. </h2>
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
- <h1>日本/Japan</h1>
+<h1>日本/Japan</h1>
 
 <h2> 地上波【東京】/Terrestrial【Tokyo】 </h2>
 
@@ -24,7 +16,7 @@ People who do not have a paid contract with the distributor can no longer access
 |  地上 ch5  |     テレビ朝日           | [>](https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1)                                                 |                                                           <img height="30" src="https://i.imgur.com/Qmf0qeW.png"/>                                                            |       JOEXDTV.jp       |
 |  地上 ch6  |     TBSテレビ           |  [>](https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1)                                                 |                                                           <img height="30" src="https://i.imgur.com/GqvHXdu.png"/>                                                            |       JORXDTV.jp       |
 |  地上 ch7  |     テレビ東京           |  [>](https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1)                                                 |                                                           <img height="30" src="https://i.imgur.com/o56drcW.png"/>                                                            |       JOTXDTV.jp       |
-|  地上 ch8  |     フジテレビ            |  [>](https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1)                                                 |                                                           <img height="30" src="https://i.imgur.com/oWRtpGn.png"/>                                                            |       JOCXDTV.jp       |
+|  地上 ch8  |    フジテレビ            |  [>](https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1)                                                 |                                                           <img height="30" src="https://i.imgur.com/oWRtpGn.png"/>                                                            |       JOCXDTV.jp       |
 
 <h2> BS/CS (Satellite) </h2>
 
